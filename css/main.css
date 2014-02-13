@@ -35,7 +35,7 @@ p {
 }
 
 .big_image_3 {
-  background-image: url('../images/bg2.jpg');
+  background-image: url('../images/bg1.jpg');
   height: 400px;
 }
 
@@ -81,7 +81,7 @@ a:after {
    ========================================================================== */
 
 #headerwrap {
-  background-image: url('../images/bg2.jpg');
+  background-image: url('../images/bg1.jpg');
   background-repeat: no-repeat;
 
   margin-top: -10px;
